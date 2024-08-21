@@ -1,0 +1,21 @@
+.mainHeading {
+  font-family: cursive;
+  font-size: larger;
+  color: rgb(41, 84, 158);
+  font-weight: bold;
+}
+.mainLine {
+  font-size: 50px;
+}
+.sizing {
+  font-size: 28px;
+  color: black;
+}
+.table {
+  background-color: cadetblue;
+  margin: 30px;
+  margin-right: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 20px;
+}

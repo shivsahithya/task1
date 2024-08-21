@@ -1,0 +1,24 @@
+.projects {
+    font-size: 50px;
+    font-family: cursive;
+    color: rgb(51, 94, 168);
+  }
+  .projectHeading {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+  .sizing {
+    font-size: 20px;
+    color: pink;
+  }
+  .img {
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    width: 50%;
+  }
+  body {
+    font-family: cursive;
+  }

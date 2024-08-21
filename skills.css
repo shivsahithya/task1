@@ -1,0 +1,22 @@
+.skills {
+    font-size: 60px;
+    font-family: cursive;
+    color: rgb(61, 64, 158);
+  }
+  .icon {
+    width: 140px;
+    height: 100px;
+  }
+  .img {
+    float: right;
+    margin-top: 160px;
+    margin-right: 250px;
+    display: flex;
+  }
+  .listSizing {
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  body {
+    font-family: cursive;
+  }
